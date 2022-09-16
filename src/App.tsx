@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <Link to="/about">About</Link>
       <h2>GitHub Pages</h2>
+      <div>This is my home page.</div>
     </div>
   );
 }

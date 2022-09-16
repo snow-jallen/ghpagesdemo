@@ -16,7 +16,6 @@ root.render(
         <Route path="/" element={<App />} />
         <Route path="/about" element={<About />} />
       </Routes>
-    <App />
     </HashRouter>
   </React.StrictMode>
 );
